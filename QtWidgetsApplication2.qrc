@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/QtWidgetsApplication2"/>
+    <qresource prefix="/iconlib">
+        <file>iconlib/icon-1.ico</file>
+    </qresource>
+</RCC>
